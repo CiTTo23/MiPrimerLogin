@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="placeHolder_userName">Type an user name</string>
+    <string name="placeHolder_pass">Put a pass!</string>
+</resources>
